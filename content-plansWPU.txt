@@ -1,6 +1,7 @@
 - java : input, print
 - csharp : input, print
-- c++ : framework
+- angular
+- reach
 
 material context 
 - phpmyadmin
