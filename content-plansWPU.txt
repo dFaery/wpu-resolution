@@ -4,3 +4,7 @@
 
 material context 
 - phpmyadmin
+- node.js
+- laravel
+- php
+- Python
